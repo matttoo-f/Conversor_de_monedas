@@ -70,3 +70,9 @@ button{
     text-align: center;
     margin-top: 15px;
 }
+.graph{
+    height: 100%;
+    background-color: aliceblue;
+    border-radius: 5px;
+    margin-top: 20px;
+}
